@@ -1,1 +1,1 @@
-Repo for some paper replications/ notes
+Rob's ML research, notes and paper replications
